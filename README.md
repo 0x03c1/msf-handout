@@ -285,3 +285,5 @@ Em seguida:
 ### Atenção
 
 Siga sempre as regras de ética e legislação aplicável. O objetivo deste handout é ensinar procedimentos defensivos e ofensivos em ambiente controlado, com ênfase em mitigação e responsabilidade.
+
+Existe um outro material complementar usando o [msfvenon](handout-msfvenom.md)
